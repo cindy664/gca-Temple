@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Temple University",
+    "abbreviation": "Temple",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#222222",
+    "primaryBrandColor": "#A41E35",
+    "buttonColor": "#A41E35",
+    "buttonTextColor": "#FFFFFF",
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000eZDwDIAW",
+    "programName": "Temple Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 Temple credits",
+    "startDate": "May 13",
+    "endDate": "August 7"
+  },
+  {
+    "item": "about",
+    "schoolname": "Temple University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "Temple",
+    "phone": null,
+    "credits": "3 Temple credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 Temple credits",
+    "abbreviation": "Temple",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Temple University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 Temple credits",
+    "abbreviation": "Temple",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 13",
+    "endDate": "August 7"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Temple University",
+    "trackTitle": "Coding for Web Track",
+    "credits": "3 Temple credits",
+    "abbreviation": "Temple",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 13",
+    "endDate": "August 7"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Temple University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 Temple credits",
+    "abbreviation": "Temple",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 13",
+    "endDate": "August 7"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Temple University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 Temple credits",
+    "abbreviation": "Temple",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 13",
+    "endDate": "August 7"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Temple University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 Temple credits",
+    "abbreviation": "Temple",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "⚪ Not Set",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 13",
+    "endDate": "August 7"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Temple Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": "Temple"
+  },
+  {
+    "item": "begin",
+    "credits": "3 Temple credits",
+    "abbreviation": "Temple",
+    "phone": null
+  }
+]
